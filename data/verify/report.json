@@ -1,0 +1,171 @@
+{
+  "clone": {
+    "tag": "clone",
+    "url": "http://localhost:8471/",
+    "states": {
+      "load": "/tmp/at-v51/data/verify/1-load-clone.png",
+      "sweep": "/tmp/at-v51/data/verify/2-sweep-clone.png",
+      "midscroll": "/tmp/at-v51/data/verify/3-midscroll-clone.png",
+      "deepscroll": "/tmp/at-v51/data/verify/4-deepscroll-clone.png",
+      "work": "/tmp/at-v51/data/verify/5-work-clone.png",
+      "workscroll": "/tmp/at-v51/data/verify/6-workscroll-clone.png",
+      "contact": "/tmp/at-v51/data/verify/7-contact-clone.png",
+      "home": "/tmp/at-v51/data/verify/8-home-clone.png"
+    },
+    "fails404": [],
+    "failedReqs": [],
+    "preUpgradeFails": [],
+    "externals": [],
+    "pageErrors": [],
+    "synthetics": {
+      "track204": 1,
+      "audio200": 8
+    },
+    "aborts": [
+      "http://localhost:8471/videos/vid-1.mp4 [net::ERR_ABORTED]",
+      "http://localhost:8471/videos/vid-1.mp4 [net::ERR_ABORTED]",
+      "http://localhost:8471/videos/vid-1.mp4 [net::ERR_ABORTED]",
+      "http://localhost:8471/assets/video/reel.mp4 [net::ERR_ABORTED]",
+      "http://localhost:8471/assets/video/reel.mp4 [net::ERR_ABORTED]",
+      "http://localhost:8471/assets/video/reel.mp4 [net::ERR_ABORTED]"
+    ],
+    "liveUrl": "http://localhost:8471/live.html",
+    "trailBaseline": 3.1,
+    "trailSweep": 4.72,
+    "workClicked": true,
+    "workText": 309,
+    "workUrl": "http://localhost:8471/",
+    "contactClicked": true,
+    "contactText": 301,
+    "contactUrl": "http://localhost:8471/",
+    "homeText": 54,
+    "idleNewBins": 0,
+    "carouselDistinct": 6,
+    "videos": {
+      "/assets/video/reel.mp4": "PLAYS dt=1.76",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/EchoCaseStudy.mp4": "PLAYS dt=1.76",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/Discover_Your_Patronus_Case_Study%20(1).mp4": "PLAYS dt=1.76"
+    }
+  },
+  "orig": {
+    "tag": "orig",
+    "url": "https://activetheory.net",
+    "states": {
+      "load": "/tmp/at-v51/data/verify/1-load-orig.png",
+      "sweep": "/tmp/at-v51/data/verify/2-sweep-orig.png",
+      "midscroll": "/tmp/at-v51/data/verify/3-midscroll-orig.png",
+      "deepscroll": "/tmp/at-v51/data/verify/4-deepscroll-orig.png",
+      "work": "/tmp/at-v51/data/verify/5-work-orig.png",
+      "workscroll": "/tmp/at-v51/data/verify/6-workscroll-orig.png",
+      "contact": "/tmp/at-v51/data/verify/7-contact-orig.png",
+      "home": "/tmp/at-v51/data/verify/8-home-orig.png"
+    },
+    "fails404": [],
+    "failedReqs": [],
+    "preUpgradeFails": [],
+    "externals": [],
+    "pageErrors": [],
+    "synthetics": {
+      "track204": 4,
+      "audio200": 1
+    },
+    "aborts": [
+      "https://www.google-analytics.com/g/collect?v=2&tid=G-J7TMDT4F8N&gtm=45je66u1v9175388020za200zd9175388020&_p=1783284216516&gcd=13l3l3l3l1l1&n [net::ERR_ABORTED]",
+      "https://activetheory.net/assets/video/reel.mp4 [net::ERR_ABORTED]",
+      "https://www.google-analytics.com/g/collect?v=2&tid=G-J7TMDT4F8N&gtm=45je66u1v9175388020za200zd9175388020&_p=1783284216516&gcd=13l3l3l3l1l1&n [net::ERR_ABORTED]",
+      "https://activetheory.net/assets/video/reel.mp4 [net::ERR_ABORTED]",
+      "https://activetheory.net/assets/video/reel.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/Million_Piece_Mission_1.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/thorne_installation.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/the_harmonic_state%20(1080p)%202.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/video.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/secret_sky_2021_recap%20(1080p)_1.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/prometheus%20(720p).mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/EchoCaseStudy.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/racer.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/chile_1.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/Kandinsky_2000Kbps_720p.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/xbox_8_1.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/Discover_Your_Patronus_Case_Study%20(1).mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/sustainable_1_1.mp4 [net::ERR_ABORTED]",
+      "https://www.google-analytics.com/g/collect?v=2&tid=G-J7TMDT4F8N&gtm=45je66u1v9175388020za200zd9175388020&_p=1783284216516&gcd=13l3l3l3l1l1&n [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/paperplanes_1.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/sustainable_1_1.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/Discover_Your_Patronus_Case_Study%20(1).mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/xbox_8_1.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/Kandinsky_2000Kbps_720p.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/chile_1.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/racer.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/EchoCaseStudy.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/prometheus%20(720p).mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/secret_sky_2021_recap%20(1080p)_1.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/video.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/the_harmonic_state%20(1080p)%202.mp4 [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/thorne_installation.mp4 [net::ERR_ABORTED]",
+      "https://www.google-analytics.com/g/collect?v=2&tid=G-J7TMDT4F8N&gtm=45je66u1v9175388020za200zd9175388020&_p=1783284216516&gcd=13l3l3l3l1l1&n [net::ERR_ABORTED]",
+      "https://storage.googleapis.com/activetheory-v6.appspot.com/media/Million_Piece_Mission_1.mp4 [net::ERR_ABORTED]"
+    ],
+    "trailBaseline": 5.15,
+    "trailSweep": 5.56,
+    "workClicked": true,
+    "workText": 315,
+    "workUrl": "https://activetheory.net/",
+    "contactClicked": true,
+    "contactText": 315,
+    "contactUrl": "https://activetheory.net/",
+    "homeText": 54,
+    "carouselDistinct": 6
+  },
+  "verdicts": [
+    {
+      "name": "zero-404",
+      "pass": true,
+      "detail": "none"
+    },
+    {
+      "name": "zero-failed-post-upgrade",
+      "pass": true,
+      "detail": "none"
+    },
+    {
+      "name": "zero-external-leaks",
+      "pass": true,
+      "detail": "none"
+    },
+    {
+      "name": "zero-page-errors",
+      "pass": true,
+      "detail": "none"
+    },
+    {
+      "name": "upgraded-to-live",
+      "pass": true,
+      "detail": "http://localhost:8471/live.html"
+    },
+    {
+      "name": "work-overlay-content",
+      "pass": true,
+      "detail": "clicked=true text=309 url=http://localhost:8471/"
+    },
+    {
+      "name": "contact-overlay-content",
+      "pass": true,
+      "detail": "clicked=true text=301 url=http://localhost:8471/"
+    },
+    {
+      "name": "carousel-cycles",
+      "pass": true,
+      "detail": "distinct=6 idleNewBins=0"
+    },
+    {
+      "name": "mouse-trail-reactive",
+      "pass": true,
+      "detail": "clone Δ=1.62 (3.1→4.72) vs orig Δ=0.41 (5.15→5.56)"
+    },
+    {
+      "name": "videos-play",
+      "pass": true,
+      "detail": "/assets/video/reel.mp4: PLAYS dt=1.76 | https://storage.googleapis.com/activetheory-v6.appspot.com/media/EchoCaseStudy.mp4: PLAYS dt=1.76 | https://storage.googleapis.com/activetheory-v6.appspot.com/media/Discover_Your_Patronus_Case_Study%20(1).mp4: PLAYS dt=1.76"
+    }
+  ]
+}
