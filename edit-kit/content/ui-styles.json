@@ -1,0 +1,10 @@
+{
+  "INPUT_Element_4_About_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.075\nlineHeight: 2\nwidth: 2",
+  "INPUT_Element_4_Home_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.28\nlineHeight: 1.1\nalign: center\ncolor: #7dc2f0",
+  "INPUT_Element_5_WorkDetailContent_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.4\nletterSpacing: 0.05\nlineHeight: 1.2\ncolor: #888888\nwidth: 2.5\nalign: center",
+  "INPUT_Element_7_WorkDetailContent_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.07\nlineHeight: 1.6\ncolor: #aaaaaa\nwidth: 2.2\nalign: center",
+  "INPUT_Element_8_WorkDetailContent_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.07\nlineHeight: 1.6\ncolor: #eeeeee\nwidth: 2.8\nalign: right",
+  "INPUT_Element_15_CleanRoom_text3d_fontStyle": "font: NBArchitektStd-Light\nlineHeight: 1.2\nsize: 0.058\nletterSpacing: 0.01\ncolor: #ffffff\nalign: right",
+  "INPUT_Element_20_CleanRoom_text3d_fontStyle": "font: NBArchitektStd-Bold\nlineHeight: 2\nwidth: 0.45\nsize: 0.025\ncolor: #ffffff\nalign: left",
+  "INPUT_Element_3_About_text3d_fontStyle": "font: NBArchitektStd-Regular\nsize: 0.5\nlineHeight: 1.1\nalign: left"
+}
